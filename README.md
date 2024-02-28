@@ -14,4 +14,4 @@ PACKMATE_WEB_PASSWORD=Ibiza.Trusi.Cumshot
 <li>Интерфейс для перехвата: </li>
 PACKMATE_INTERFACE=<ставим свой> 
 <br><br>
-запускаем контейнер `sudo docker compose up -d`
+запускаем контейнер <code>sudo docker compose up -d</code>
